@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0":"mattermod:item/mini_anti_matter"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "mekanism:pellet_antimatter"
+    }
+  },
+  "result": {
+    "item": "mattermod:anti_matter_block",
+    "count": 1
+  }
+
+
+}

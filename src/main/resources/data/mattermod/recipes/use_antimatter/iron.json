@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "A  ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "mattermod:nano_anti_matter"
+    }
+
+  },
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 10
+  }
+
+}

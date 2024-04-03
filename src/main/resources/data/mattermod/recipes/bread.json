@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mattermod:juusou_nameru_koyaku"
+  },"result": "minecraft:bread",
+  "experience": 0.15,
+  "cookingtime": 200
+}

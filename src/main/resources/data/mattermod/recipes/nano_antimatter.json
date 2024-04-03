@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "mattermod:micro_anti_matter"
+    }
+  },
+    "result": {
+      "item": "mattermod:nano_anti_matter",
+      "count": 9
+    }
+
+
+}

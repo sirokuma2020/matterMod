@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mattermod:block/anti_matter_block"
+    }
+  }
+}
